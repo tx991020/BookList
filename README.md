@@ -14,6 +14,8 @@
 - 自己动手实现Docker
 - writing_a_compiler_in_go
 - 图解http
+- 大话数据结构
+- 大话设计模式
 - 码农翻身
 - Go语言学习笔记
 - Go语言实战
