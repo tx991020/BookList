@@ -6,6 +6,7 @@
 - PostgreSQL实战
 - Redis 设计与实现
 - 深入理解计算机系统
+- 深入理解java虚拟机
 - Linux内核设计与实现
 - Unix环境编程
 - 深入理解java虚拟机
