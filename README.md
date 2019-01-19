@@ -9,7 +9,6 @@
 - 深入理解java虚拟机
 - Linux内核设计与实现
 - Unix环境编程
-- 深入理解java虚拟机
 - 自己动手实现java虚拟机
 - 自己动手实现Lua
 - 自己动手实现Docker
