@@ -13,7 +13,7 @@
 - 自己动手实现Lua虚拟机、编译器和标准库
 - 自己动手实现Docker
 - writing_a_compiler_in_go
-- 编译原理
+- 编译原理(龙书)
 - 图解http
 - 图解tcp/ip
 - http 权威指南
