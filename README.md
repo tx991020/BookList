@@ -23,10 +23,13 @@
 - Go语言学习笔记
 - Go语言实战
 - Concurrency In Go
+- go-patterns
 - Effective Python
 - 流畅的Python
+- python web 开发实战
 - 每天5分钟学习kubernetes
 - kubernetes权威指南
+- C语言程序设计
 
 
 
