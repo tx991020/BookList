@@ -28,6 +28,7 @@
 - go-patterns
 - Effective Python
 - 流畅的Python
+- 利用pandas进行数据分析
 - python web 开发实战
 - 每天5分钟学习kubernetes
 - kubernetes权威指南
