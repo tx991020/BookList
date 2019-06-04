@@ -5,6 +5,10 @@
 - 高性能MySQL
 - SQL CookBook
 - PostgreSQL实战
+- 由浅入深 PostgreSQL
+- PostgreSQL 技术内幕
+- PostgreSQL 修炼之道
+- PostgrsSQL 即学即用
 - Redis 设计与实现
 - 深入理解计算机系统
 - 深入理解java虚拟机
@@ -32,8 +36,11 @@
 - python web 开发实战
 - 每天5分钟学习kubernetes
 - kubernetes权威指南
+- istio 入门与实战
 - C语言程序设计
 - 亿级流量网站架构核心技术
 - Nginx实战基于Lua语言
+- Rust编程之道
+
 
 
