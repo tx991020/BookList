@@ -10,6 +10,9 @@
 - PostgreSQL 修炼之道
 - PostgrsSQL 即学即用
 - Redis 设计与实现
+- Redis 开发与运维
+- Redis 深度历险
+- 深度理解Redis
 - 深入理解计算机系统
 - 深入理解java虚拟机
 - Linux内核设计与实现
@@ -36,6 +39,7 @@
 - python web 开发实战
 - 每天5分钟学习kubernetes
 - kubernetes权威指南
+- kubernetes in action
 - istio 入门与实战
 - C语言程序设计
 - 亿级流量网站架构核心技术
