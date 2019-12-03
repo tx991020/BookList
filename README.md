@@ -50,5 +50,6 @@
 - 性能之巅 洞悉系统、企业与云计算
 - 深入RabbitMQ
 - 微服务架构设计模式
+- Netty、Redis、Zookeeper 高并发实战
 
 
