@@ -12,6 +12,7 @@
 - Redis 设计与实现
 - Redis 开发与运维
 - Redis 深度历险
+- Redis 手册
 - 深度理解Redis
 - 深入理解计算机系统
 - TCP/IP 卷一
@@ -46,10 +47,15 @@
 - 亿级流量网站架构核心技术
 - 亿级网关
 - Nginx实战基于Lua语言
+- Openresty 完全开发指南
+- cocos-2d-x Lua 游戏开发
 - Rust编程之道
 - 性能之巅 洞悉系统、企业与云计算
 - 深入RabbitMQ
 - 微服务架构设计模式
 - Netty、Redis、Zookeeper 高并发实战
+- 深入浅出rust
+- rust编程之道
+- The Rust Programming Language
 
 
