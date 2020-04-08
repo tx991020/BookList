@@ -57,5 +57,6 @@
 - 深入浅出rust
 - rust编程之道
 - The Rust Programming Language
+- Hands-On Microservices with Rust
 
 
