@@ -50,7 +50,7 @@
 - Openresty 完全开发指南
 - cocos-2d-x Lua 游戏开发
 - Rust编程之道
-- 深入浅出rust
+- 深入浅出Rust
 - The Rust Programming Language
 - Hands-On Microservices with Rust
 - 性能之巅 洞悉系统、企业与云计算
