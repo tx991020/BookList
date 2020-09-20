@@ -58,6 +58,7 @@
 - 微服务架构设计模式
 - Netty、Redis、Zookeeper 高并发实战
 - Erlang/OTP 并发编程实战
+- ClickHouse 原理解析与应用实践
 
 
 
