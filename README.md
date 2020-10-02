@@ -18,7 +18,8 @@
 - TCP/IP 卷一
 - 深入理解java虚拟机
 - Linux内核设计与实现
-- Unix环境编程
+- Unix环境高级编程
+- Unix网络编程
 - 自己动手实现java虚拟机
 - 自己动手实现Lua虚拟机、编译器和标准库
 - 自己动手实现Docker
