@@ -39,6 +39,7 @@
 - Go语言实战
 - Concurrency In Go
 - go-patterns
+- Go专家编程
 - Effective Python
 - 流畅的Python
 - 利用pandas进行数据分析
