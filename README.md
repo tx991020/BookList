@@ -56,6 +56,8 @@
 - cocos-2d-x Lua 游戏开发
 - Rust编程之道
 - 深入浅出Rust
+- Rust权威指南
+- Rust程序设计
 - The Rust Programming Language
 - Hands-On Microservices with Rust
 - 性能之巅 洞悉系统、企业与云计算
