@@ -9,6 +9,7 @@
 - PostgreSQL 技术内幕
 - PostgreSQL 修炼之道
 - PostgrsSQL 即学即用
+- 深入浅出 PostgreSQL
 - Redis 设计与实现
 - Redis 开发与运维
 - Redis 深度历险
@@ -53,6 +54,7 @@
 - 亿级网关
 - Nginx实战基于Lua语言
 - Openresty 完全开发指南
+- Kong入门与实战
 - cocos-2d-x Lua 游戏开发
 - Rust编程之道
 - 深入浅出Rust
