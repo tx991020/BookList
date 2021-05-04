@@ -54,6 +54,7 @@
 - 亿级流量网站架构核心技术
 - 亿级网关
 - Nginx实战基于Lua语言
+- Nginx完全开发指南
 - Openresty 完全开发指南
 - Kong入门与实战
 - cocos-2d-x Lua 游戏开发
