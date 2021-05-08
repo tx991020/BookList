@@ -51,10 +51,11 @@
 - kubernetes in action
 - istio 入门与实战
 - C语言程序设计
+- C Primer Plus
 - 亿级流量网站架构核心技术
 - 亿级网关
 - Nginx实战基于Lua语言
-- Nginx完全开发指南
+- Nginx完全开发指南C,C++,Lua
 - Openresty 完全开发指南
 - Kong入门与实战
 - cocos-2d-x Lua 游戏开发
