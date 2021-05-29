@@ -75,5 +75,6 @@
 - ClickHouse 原理解析与应用实践
 - Bash shell 脚本编程经典实例
 - Bash CookBook
+- RabbitMQ实战
 
 
