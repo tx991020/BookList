@@ -76,5 +76,6 @@
 - Bash shell 脚本编程经典实例
 - Bash CookBook
 - RabbitMQ实战
+- 深入RabbitMQ
 
 
