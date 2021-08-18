@@ -77,5 +77,5 @@
 - Bash CookBook
 - RabbitMQ实战
 - 深入RabbitMQ
-
+- Akka实战
 
