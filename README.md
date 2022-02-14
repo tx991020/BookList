@@ -78,4 +78,4 @@
 - RabbitMQ实战
 - 深入RabbitMQ
 - Akka实战
-
+- JavaScript高级程序设计(第四版)
