@@ -68,6 +68,7 @@
 - 精通Rust
 - The Rust Programming Language
 - Hands-On Microservices with Rust
+- black_hat_rust
 - 性能之巅 洞悉系统、企业与云计算
 - 深入RabbitMQ
 - 微服务架构设计模式
