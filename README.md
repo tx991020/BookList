@@ -61,7 +61,6 @@
 - Nginx完全开发指南C,C++,Lua
 - Openresty 完全开发指南
 - Kong入门与实战
-- cocos-2d-x Lua 游戏开发
 - Rust编程之道
 - 深入浅出Rust
 - Rust权威指南
