@@ -15,6 +15,7 @@
 - Redis 深度历险
 - Redis 手册
 - 深度理解Redis
+- 设计计算密集型应用
 - 深入理解计算机系统
 - 深入Linux内核架构
 - 深入理解Linux网络
@@ -81,3 +82,4 @@
 - 深入RabbitMQ
 - Akka实战
 - JavaScript高级程序设计(第四版)
+- etcd工作笔记
