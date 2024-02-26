@@ -10,12 +10,12 @@
 - PostgreSQL 修炼之道
 - PostgrsSQL 即学即用
 - 深入浅出 PostgreSQL
+- 计算密集型应用设计DDIA
 - Redis 设计与实现
 - Redis 开发与运维
 - Redis 深度历险
 - Redis 手册
 - 深度理解Redis
-- 计算密集型应用设计DDIA
 - 深入理解计算机系统
 - 深入Linux内核架构
 - 深入理解Linux网络
@@ -30,7 +30,6 @@
 - 自己动手实现Lua虚拟机、编译器和标准库
 - 自己动手实现Docker
 - writing_a_compiler_in_go
-- 编译原理(龙书)
 - 图解http
 - 图解tcp/ip
 - http权威指南
@@ -39,6 +38,16 @@
 - 大话数据结构
 - 大话设计模式
 - 码农翻身
+- Rust编程之道
+- 深入浅出Rust
+- Rust权威指南
+- Rust程序设计
+- 精通Rust
+- The Rust Programming Language
+- Programing Rust
+- Asynchronous Programming in Rust
+- Hands-On Microservices with Rust
+- black_hat_rust
 - Go语言学习笔记
 - Go语言实战
 - Concurrency In Go
@@ -55,20 +64,13 @@
 - istio 入门与实战
 - C语言程序设计
 - C Primer Plus
+- c++20高级编程
 - 亿级流量网站架构核心技术
 - 亿级网关
 - Nginx实战基于Lua语言
 - Nginx完全开发指南C,C++,Lua
 - Openresty 完全开发指南
 - Kong入门与实战
-- Rust编程之道
-- 深入浅出Rust
-- Rust权威指南
-- Rust程序设计
-- 精通Rust
-- The Rust Programming Language
-- Hands-On Microservices with Rust
-- black_hat_rust
 - 性能之巅 洞悉系统、企业与云计算
 - 深入RabbitMQ
 - 微服务架构设计模式
@@ -84,3 +86,4 @@
 - etcd工作笔记
 - 分布式协议与算法实战
 - 深度探索Go语言对象模型与runtime的原理
+
