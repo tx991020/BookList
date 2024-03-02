@@ -48,6 +48,7 @@
 - Asynchronous Programming in Rust
 - Hands-On Microservices with Rust
 - black_hat_rust
+- Speed Up your Python With Rust
 - Go语言学习笔记
 - Go语言实战
 - Concurrency In Go
